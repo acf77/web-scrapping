@@ -1,3 +1,3 @@
-# web-scrapping para tabelas de futebol brasileiro
+# web-scrapping for brazilian football championship matches
 
-Script de web scrapping onde retirei dados de todos os jogos do campeonato brasileiro de 2019, com o objetivo de avaliar os resultados dos jogos entre manhã (11h da manhça, com temperatura elevada), tarde e noite (com temperatura neutra).
+Script de web scrapping aiming to understand and compare results between games in the morning (with high temperatures) and games in the afternonn/night (lower temperature).
